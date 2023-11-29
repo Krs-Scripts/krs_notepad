@@ -1,0 +1,3 @@
+Krs = {}
+
+Krs.Item = "notepad"
